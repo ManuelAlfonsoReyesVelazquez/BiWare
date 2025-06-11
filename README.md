@@ -1,0 +1,1 @@
+En este repositorio se encuentra el proyecto sobre el examen practico de java con springboot y postgreSQL, adicional se encuentra el examen teorico y la coleccion de postman para consumir los servicios del modulo Usuarios
